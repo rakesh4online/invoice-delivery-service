@@ -1,4 +1,4 @@
-package com.company.invoice.invoice_delivery_service;
+package com.company.invoice.invoicedeliveryservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

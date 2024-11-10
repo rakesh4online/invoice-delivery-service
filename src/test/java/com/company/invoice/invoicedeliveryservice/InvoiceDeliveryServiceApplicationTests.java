@@ -1,4 +1,4 @@
-package com.company.invoice.invoice_delivery_service;
+package com.company.invoice.invoicedeliveryservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
